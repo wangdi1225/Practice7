@@ -1,0 +1,5 @@
+com\wd\controller\ClothesController.class
+com\wd\dao\ClothesMapper.class
+com\wd\bean\Clothes.class
+com\wd\service\ClothesServicelmpl.class
+com\wd\service\ClothesService.class
